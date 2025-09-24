@@ -53,5 +53,7 @@ public class Main {
         System.out.println(nums[2] == 100);
         boolean isGreater100 = nums[1] >= 100;
         System.out.println(isGreater100);
+
+
     }
 }
