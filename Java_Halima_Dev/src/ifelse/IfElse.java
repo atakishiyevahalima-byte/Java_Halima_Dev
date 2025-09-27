@@ -1,6 +1,6 @@
-package ifelseurok;
+package ifelse;
 
-public class IfElseUrok1 {
+public class IfElse {
     public static void main(String[] args) {
         boolean isRaining = true;
 

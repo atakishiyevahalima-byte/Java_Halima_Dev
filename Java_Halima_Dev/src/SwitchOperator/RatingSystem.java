@@ -1,4 +1,4 @@
-package Homework;
+package SwitchOperator;
 
 public class RatingSystem {
     public static void main(String[] args) {

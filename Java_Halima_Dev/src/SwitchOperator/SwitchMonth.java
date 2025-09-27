@@ -1,4 +1,4 @@
-package Homework;
+package SwitchOperator;
 
 public class SwitchMonth {
     public static void main(String[] args) {

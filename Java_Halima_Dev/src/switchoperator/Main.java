@@ -1,4 +1,4 @@
-package switchoperator;
+package SwitchOperator;
 
 public class Main {
     public static void main(String[] args) {
