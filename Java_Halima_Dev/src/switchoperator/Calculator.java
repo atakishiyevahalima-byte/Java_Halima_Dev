@@ -19,7 +19,7 @@ public class Calculator {
             case '/':
                 if (b == 0) {
                     System.out.println("Делить нельзя!");
-                } else{
+                } else {
                     System.out.println(a / b);
                 }
 
