@@ -39,6 +39,8 @@ public class Loops {
             } else {
                 System.out.println("Не делится");
             }
+
+
         }
     }
 }
