@@ -21,10 +21,6 @@ public class ScannerTest {
         System.out.println(t.bday);
         t.bday();
 
-        System.out.println("Your age: ");
-        t.age = scanner.nextInt();
-        t.age();
-
         System.out.println("Your location: ");
         t.location = scanner.nextLine();
         System.out.println(t.location);
@@ -35,12 +31,16 @@ public class ScannerTest {
         System.out.println(t.hobby);
         t.hobby();
 
+        System.out.println("Your age: ");
+        t.age = scanner.nextInt();
+        t.age();
+
         System.out.println(t.name);
         System.out.println(t.surname);
         System.out.println(t.bday);
-        System.out.println(t.age);
         System.out.println(t.location);
         System.out.println(t.hobby);
+        System.out.println(t.age);
 
         scanner.close();
 
