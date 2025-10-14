@@ -18,7 +18,7 @@ public class MainCar {
         System.out.println("Price: ");
         car.price = sc.nextInt();
         car.tornOnCar();
-        
+
         System.out.println("Show all information");
         car.car_information();
     }
