@@ -24,6 +24,9 @@ class Manager extends Employee {
     public static void main(String[] args) {
         Employee empl = new Employee();
         Developer dev = new Developer();
+
+
+
         Manager manager = new Manager();
         String[] employee = {"Employee", "Developer", "Manager"};
         for (String Empl : employee){
