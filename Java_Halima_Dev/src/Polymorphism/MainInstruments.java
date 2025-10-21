@@ -6,7 +6,7 @@ public class MainInstruments {
         Guitar guitar = new Guitar();
         Piano piano = new Piano();
         Drum drum = new Drum();
-        
+
         instrument.playSound();
         guitar.playSound();
         piano.playSound();
