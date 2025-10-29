@@ -17,3 +17,4 @@ public class MainPerson {
         System.out.println(person.getEyeColor());
     }
 }
+//class user e-mail or phone password card number год рождения name surname
