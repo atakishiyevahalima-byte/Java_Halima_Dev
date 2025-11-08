@@ -10,12 +10,12 @@ public class GreetingMain {
 
 class Greeting{
     void showMessage(){
-        class Message{
-            void print(){
-                System.out.println("Привет из локального класса!");
-            }
-        }
         Message msg = new Message();
         msg.print();
+    }
+    class Message{
+        void print(){
+            System.out.println("Привет из локального класса!");
+        }
     }
 }
