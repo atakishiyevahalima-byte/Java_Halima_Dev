@@ -104,6 +104,9 @@ public class CastingHw {
         System.out.println("Дробное значение: " + j1);
         System.out.println("Целое значение: " + i1);
 
+        char h2 = 'A';
+        byte j2 = (byte) h2;
+        System.out.println(j2);
     }
 
 }
